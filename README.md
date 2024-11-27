@@ -1,4 +1,4 @@
-##olá gostaria
+Olá gostaria
 de ser desenvolvedor
 
 - ⚡ Cursando Ensino médio integrado ao curso técnico
