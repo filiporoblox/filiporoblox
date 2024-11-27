@@ -1,11 +1,6 @@
-##ola gostaria👋
+##olá gostaria👋
 
-<!--
-**filiporoblox/filiporoblox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Cursando Ensino medio intefrado ao curso técnico
+- 🔭 Cursando Ensino médio integrado ao curso técnico
 - 🌱 Aprendendo Java, HTML e CSS
 - 👯 Procuro colaborar no desenvolvimento de projetos 
 - 🤔 Procuro ajuda com Java Script
